@@ -1,5 +1,5 @@
 # UpNote To Obsidian
-Put an Upnote export back into a folder heirarchy, and move images to the folder matching the Markdown Note. Forked from ![https://github.com/adams141/UpNote_Reorganizer](Adams141's UpNoteReorganizer) to be a bit more Obsidian Specific
+Put an Upnote export back into a folder heirarchy, and move images to the folder matching the Markdown Note. Forked from [https://github.com/adams141/UpNote_Reorganizer](Adams141's UpNoteReorganizer) to be a bit more Obsidian Specific
 
 ### Need
 When you export your notes in markdown format, they are all in one folder. This puts them back into the folder structure you had in UpNote. *note: if you have a note in multiple notebooks, you will end up with multiple copies*
